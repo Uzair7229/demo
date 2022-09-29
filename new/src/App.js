@@ -33,7 +33,11 @@ componentWillMount() {
          </a>
         <p className="backend" id="2">{this.state.apiResponse}</p>
         <h1>My name is uzair</h1>
+<<<<<<< HEAD
         <h1> My name is Harris</h1>
+=======
+        <h1>My name is Ashish Jumani</h1>
+>>>>>>> 1d134b509213f47d512eb20621f2876ea0ceefb9
 
       </header>
     </div>
