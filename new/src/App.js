@@ -29,7 +29,7 @@ componentWillMount() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          PERSONAL INFORMATION
+          PERSONAL INFORMATION Updated
          </a>
         <p className="backend" id="2">{this.state.apiResponse}</p>
         <h1>My name is uzair</h1>
