@@ -30,10 +30,12 @@ componentWillMount() {
           rel="noopener noreferrer"
         >
           PERSONAL INFORMATION
+
          </a>
         <p className="backend" id="2">{this.state.apiResponse}</p>
         <h1>My name is uzair</h1>
-        <h1> My name is Harris</h1>
+        <h1> My name is Harris Aamir </h1>
+        <h1> this is my branch</h1>
         <h1>My name is Ashish Jumani</h1>
 
       </header>
